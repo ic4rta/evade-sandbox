@@ -1,3 +1,4 @@
 # evade-sandbox
-Sandbox evasion based on keystrokes
-after executing check the results in a debugger
+Sandbox evasion basada en las pulsaciones
+
+después de ejecutar comprobar los resultados en un debugger
